@@ -1,0 +1,2 @@
+# Sos-bot
+bot discord 
